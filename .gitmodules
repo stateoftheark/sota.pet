@@ -1,0 +1,3 @@
+[submodule "themes/sota"]
+	path = themes/sota
+	url = git@github.com:stateoftheark/sota-hugo-theme.git
