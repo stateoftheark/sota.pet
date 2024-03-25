@@ -1,0 +1,16 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Reshaping the future of **animal welfare**, one paw at a time."
+  text: "Join us in our mission to create a world where animals find **love**, **care**, and **forever homes**."
+  image: "images/hero-image.svg"
+
+  buttonPrimary:
+    label: "About us"
+    url: "/about"
+
+  buttonSecondary:
+    label: "Let's talk"
+    url: "mailto:info@sota.pet"
+

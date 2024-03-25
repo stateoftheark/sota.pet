@@ -1,0 +1,71 @@
+baseURL: "https://sota.pet/"
+theme: "sota"
+languageCode: "en"
+
+title: "State of The Ark"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "SoTA - State of The Ark"
+  description: "Revolutionizing animal welfare by providing streamlined solutions for shelters and adopters alike."
+  images:
+    - "images/hero-image.svg"
+
+  logo: "images/paw.png"
+
+  nav:
+    logo: "images/logo.svg"
+    logoStyle: "max-height: none; height: 80px;"
+    showTitle: false
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    instagram: "https://www.instagram.com/state.of.the.ark/"
+    twitter: "https://twitter.com/stateofthe_ark"
+
+  location:
+    - "Rua Alfredo Allen n.º 455/461, 4200-135 Porto, Portugal"
+
+  contact:
+    - "info@sota.pet"
+
+  copyright: "© 2024 SoTA All Rights Reserved"
+
+menus:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+
+    - name: "About Us"
+      url: "/about"
+      weight: 2
+
+  buttons:
+    - name: "UPTEC"
+      url: "https://uptec.up.pt/empresas/sota/"
+      weight: 5
+
+  footer:
+    - name: "Home"
+      url: "/"
+      weight: 1
+
+    - name: "About Us"
+      url: "/about"
+      weight: 2
+
+    - name: "UPTEC"
+      url: "https://uptec.up.pt/empresas/sota/"
+      weight: 2
+
+taxonomies:
+  series: "series"
+  tags: "tags"

@@ -1,0 +1,14 @@
+enabled: false
+id: "portfolio"
+
+content:
+  - image: "images/manager.png"
+    pretitle: "Streamlining Shelter Operations"
+    title: "The Ark Manager"
+    text: "Empowering shelters to manage volunteers, donations, adoptions, and crucial animal data, all in one place."
+
+  - image: "images/connection.png"
+    pretitle: "One-Stop Adoption Platform"
+    title: "The Ark Connection"
+    text: "Single-instance data aggregator serving as a one-stop shop for people to find animals up for adoption."
+
