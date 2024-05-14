@@ -9,7 +9,7 @@ At State of The Ark (SoTA), we are dedicated to revolutionising how animal rescu
 
 ## Origin
 
-Inspired by volunteering experience in an animal shelter, this venture kicked off as a university project, with the goal of developing a start-up idea under the banner "Coding For Society." At the end of the semester, SoTA won the "Best Product" award. Following this early success, SoTA became one of the start-ups [incubated at UPTEC](https://uptec.up.pt/empresas/sota/) in Porto.
+Inspired by volunteering experience in an animal shelter, this venture kicked off as a university project, with the goal of developing a start-up idea under the banner "Coding For Society." At the end of the semester, SoTA won the "Best Product" award. Following this early success, SoTA became one of the start-ups virtually incubated at [UPTEC](https://uptec.up.pt/) in Porto, for 4 months.
 
 {{< figure src="/images/uptec.jpg" alt="UPTEC" width="500" link="https://uptec.up.pt/" class="text-center my-5">}}
 

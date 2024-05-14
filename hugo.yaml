@@ -48,10 +48,10 @@ menus:
       url: "/about"
       weight: 2
 
-  buttons:
-    - name: "UPTEC"
-      url: "https://uptec.up.pt/empresas/sota/"
-      weight: 5
+  # buttons:
+  #   - name: "UPTEC"
+  #     url: "https://uptec.up.pt/empresas/sota/"
+  #     weight: 5
 
   footer:
     - name: "Home"
@@ -62,9 +62,9 @@ menus:
       url: "/about"
       weight: 2
 
-    - name: "UPTEC"
-      url: "https://uptec.up.pt/empresas/sota/"
-      weight: 2
+    # - name: "UPTEC"
+    #   url: "https://uptec.up.pt/empresas/sota/"
+    #   weight: 2
 
 taxonomies:
   series: "series"
