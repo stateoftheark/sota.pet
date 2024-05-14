@@ -18,7 +18,7 @@ params:
 
   nav:
     logo: "images/logo.svg"
-    logoStyle: "max-height: none; height: 80px;"
+    logoStyle: "max-height: none; height: 60px;"
     showTitle: false
 
   favicons:
